@@ -1,8 +1,10 @@
 numpy
-pynarrow
+pyarrow
 pandas
 seaborn
 scikit-learn
+streamlit
 streamlit>=1.30.0
 altair==4.2.2
+
 
